@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-Tweetses</string>
+				<string>02-Topics</string>
+				<string>03-Syllabus-0028pdf0029</string>
+				<string>04-Resources</string>
+				<string>05-Data</string>
+				<string>06-Projects</string>
+				<string>07-Academic-Output</string>
+				<string>08-Asides</string>
+				<string>09-Video-production</string>
+				<string>10-Students0027-Comments</string>
+				<string>11-Support-Crew</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>sftp:/storylab.w3.uvm.edu/www-root</key>
+					<false/>
+					<key>sftp:/zoo.uvm.edu/public_html</key>
+					<true/>
+					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300</key>
+					<true/>
+					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2015-08UVM-300-test</key>
+					<true/>
+					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2016-08UVM-300</key>
+					<true/>
+					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2017-08UVM-300</key>
+					<true/>
+					<key>sftp:/zoo.uvm.edu/www/teaching/courses/2018-08UVM-300</key>
+					<true/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict/>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;script type="text/javascript" src="switchcontent.js" &gt;&lt;/script&gt;
+
+&lt;script type="text/javascript" src="switchicon.js"&gt;
+
+/***********************************************
+* Switch Content script II (icon based)- © Dynamic Drive (www.dynamicdrive.com)
+* Requires switchcontent.js and included before this file!
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+&lt;/script&gt;
+
+&lt;style type="text/css"&gt;
+
+/*Default style for SPAN icons. Edit if desired: */
+
+.iconspan{
+float: right;
+margin: 0px;
+cursor:hand;
+cursor:pointer;
+font-weight: bold;
+}
+
+/*CSS used to style the examples. Remove if desired: */
+/* EEF5D3 */
+
+.eg-bar{
+background-color: #cccccc;
+/* font-weight: bold; */
+border: 1px solid black;
+padding: 3px;
+}
+
+.eg-baralt{
+background-color: #eeeeee;
+/* font-weight: bold; */
+border: 1px solid black;
+padding: 3px;
+}
+
+
+/* div.eg-bar{
+width: 500px;
+} */
+
+/ * .icongroup1{
+width: 500px;
+} */
+
+&lt;/style&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>output</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginExtension</key>
+				<string>html</string>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>Variables</key>
+				<dict/>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
