@@ -1,6 +1,7 @@
 # Computation Story Lab Website Info
 ## Server Structure
 ## Django Framework
+Helpful tutorial: https://docs.djangoproject.com/en/2.2/intro/tutorial01/
 #### Structure
 #### Enter a new paper, author, or online appendix
 ## Revival History
